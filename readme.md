@@ -1,6 +1,6 @@
 ## Laravel 5.4 Quick Start Beginners To Adnvance Database Migration
 
-## Install
+## Installation
 
 We need composer to install all packages.
 Here the complete instruction to install composer https://getcomposer.org/doc/00-intro.md
@@ -28,6 +28,9 @@ Run the migration
 ```
 php artisan migrate
 ```
+
+##Notes
+Will migrate table simultaneously depending on new encounter structure
 
 ## License
 
