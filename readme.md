@@ -29,8 +29,9 @@ Run the migration
 php artisan migrate
 ```
 
-```
 ##Notes
+
+```
 Will migrate table simultaneously depending on new encounter structure
 ```
 
